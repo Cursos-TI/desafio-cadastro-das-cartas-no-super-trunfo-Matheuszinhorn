@@ -19,7 +19,7 @@ int pontos2;
 //Entrada de Dados - Carta 1
 printf("Carta 1\n");
 
-printf("Digite a População:");
+printf("Digite a Populacao:");
 scanf ("%d",&populacao1);
 
 printf("Digite Área:");
@@ -36,7 +36,7 @@ printf("\n");
 //Entrada de Dados - Carta 2
 printf("Carta 2\n");
 
-printf("Digite a População:");
+printf("Digite a Populacao:");
 scanf ("%d",&populacao2);
 
 printf("Digite Área:");
